@@ -26,3 +26,21 @@
 >>第二层引用
 >>>第三层引用
 >>>>第四层引用
+##Markdown插入代码块
+```c
+	#include<stdio.h>
+	int main()
+	{
+		printf("插入c 代码块\n");
+		return 0;
+	}
+```
+```cpp
+	#include<iostream>
+	using namespace std;
+	int main()
+	{
+		cout<<"插入c++ 代码块"<<endl;
+		return 0;
+	}
+```
