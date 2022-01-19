@@ -47,3 +47,5 @@
 ## 在文本中插入超链接（可以进行网页跳转）
 [哔哩哔哩](https://www.bilibili.com/)
 [百度](http://www.baidu.com)
+## 插入一张图片（网络）
+![image.png](https://s2.loli.net/2022/01/19/lkKWFmLxOd9jv8A.png)
